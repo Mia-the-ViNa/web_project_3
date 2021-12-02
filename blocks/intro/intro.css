@@ -1,0 +1,27 @@
+.intro {
+  font-family: "Inter", Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  max-width: 785px;
+  padding: 36px 0;
+  margin: 0 100px;
+}
+
+@media screen and (max-width: 984px) {
+  .intro {
+    max-width: 720px;
+    padding: 18px 24px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 568px) {
+  .intro {
+    padding: 18px 16px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .intro {
+    max-width: 288px;
+    padding: 32px 0;
+  }
+}
