@@ -1,24 +1,19 @@
 # Project 3: From Homeland to Homeland
 
-### Overview
+**Description**
 
-- Intro
-- Figma
-- Images
-- Github
+- This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We create some buttons that the users can interact with our website. They can buy the art work and also the tickets from our website.
 
-**Intro**
+**The technologies that help creating the website:**
 
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
-
-**Figma**
-
+- Figma has the design shows how the website should look on various screen resolutions.
 - [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
+- TinyPNG compressed the images.
+- We used Github to save different versions of our files.
+- The inspect option on the browser helped with visualize our code position, display.
+- W3C is the markup validation service which is very important. It checks the markup (html, xhtml, ...) of web documents.
+- We organized the files by following the BEM structure.
 
-**Images**
+**Website**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-**Github**
-
-- [Link to the project on Github](https://github.com/Mia-the-ViNa/web_project_3.git)
+- [Link to the website]()
