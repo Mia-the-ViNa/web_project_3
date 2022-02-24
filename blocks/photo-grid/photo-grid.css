@@ -32,7 +32,6 @@
     grid-template-rows: 1fr;
     gap: 12px;
     padding: 58px 24px 30px;
-    /*max-width: 450px;*/
   }
 }
 @media screen and (max-width: 320px) {

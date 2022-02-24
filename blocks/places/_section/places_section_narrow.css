@@ -1,10 +1,8 @@
-.section_narrow {
+.places_section_narrow {
   max-width: 984px;
-  padding: 0;
 }
-
 @media screen and (max-width: 1140px) {
-  .section_narrow {
+  .places_section_narrow {
     max-width: 1024px;
   }
 }

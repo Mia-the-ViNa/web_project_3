@@ -5,12 +5,22 @@
   line-height: 22px;
   margin: 16px 0 0;
 }
+@media screen and (max-width: 768px) {
+  .cover__subtitle {
+    margin: 32px 0;
+  }
+}
 
 @media screen and (max-width: 568px) {
   .cover__subtitle {
-    max-width: 150px;
+    max-width: 180px;
     font-size: 14px;
     line-height: 16px;
     margin: 20px 0 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    margin: 16px 0;
   }
 }
